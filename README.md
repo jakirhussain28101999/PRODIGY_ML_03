@@ -7,3 +7,8 @@ I have used 500 sample images per category, and 80% of them for training. <br> A
 <br>
 <br>
 t1.jpeg - t4.jpeg are the images I used to check output.
+
+
+<br>My linkedin profile <br>
+http://www.linkedin.com/in/jakirhussain28
+<br>
